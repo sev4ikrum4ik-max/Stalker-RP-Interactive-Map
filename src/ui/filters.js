@@ -3,7 +3,7 @@ import { presets } from "../data/presets.js";
 
 export function initFilters() {
 
-    buildGroup("location", "location-filters");
+    // Подфильтры оставляем только у мутантов и аномалий
     buildGroup("mutant", "mutant-filters");
     buildGroup("anomaly", "anomaly-filters");
 
@@ -59,7 +59,7 @@ function togglePreset(preset, visible) {
 
         if (visible) {
 
-            object.marker.addTo(object.marker._map ?? window.zoneMap);
+            object.marker.addTo(window.zoneMap);
 
         } else {
 
@@ -74,7 +74,6 @@ function togglePreset(preset, visible) {
 function bindParentFilters() {
 
     bindParent("mutant");
-    bindParent("anomaly");
     bindParent("anomaly");
 
 }

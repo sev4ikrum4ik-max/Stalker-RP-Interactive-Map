@@ -64,10 +64,7 @@ export function createApp() {
                     >
                     📍 Локации
                 </label>
-                <div
-    id="location-filters"
-    class="subfilters"
-></div>
+                
 
 
 
