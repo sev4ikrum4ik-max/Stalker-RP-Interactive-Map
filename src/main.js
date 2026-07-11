@@ -16,9 +16,18 @@ import { initEditor } from "./editor/editor.js";
 import { initDayNight } from "./map/dayNight.js";
 import { isAdmin } from "./auth/admin.js";
 
+
 import { exportObjects } from "./editor/export.js";
 
 document.querySelector("#app").innerHTML = createApp();
+
+if (!isAdmin) {
+
+    document.getElementById("editor-toggle")?.remove();
+
+    document.getElementById("export-json")?.remove();
+
+}
 
 
 // ======= Скрываем редактор обычным пользователям =======
@@ -50,7 +59,11 @@ initSearch();
 
 if (isAdmin) {
 
+    if (isAdmin) {
     initEditor();
+}
+
+    if (isAdmin) {
 
     const exportButton = document.getElementById("export-json");
 
@@ -59,5 +72,7 @@ if (isAdmin) {
         exportButton.addEventListener("click", exportObjects);
 
     }
+
+}
 
 }
