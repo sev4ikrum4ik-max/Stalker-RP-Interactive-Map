@@ -88,15 +88,11 @@ export async function initMap() {
 
     const scaledData = data.map((item) => ({
 
-        // Уникальный идентификатор объекта
-        id: item.id ?? crypto.randomUUID(),
+    id: item.id ?? crypto.randomUUID(),
 
-        ...item,
+    ...item
 
-        x: item.x * scaleX,
-        y: item.y * scaleY
-
-    }));
+}));
 
     // Передаём все объекты редактору
     setObjects(scaledData);
