@@ -1,0 +1,182 @@
+.editor-overlay{
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,.55);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    z-index:10000;
+}
+
+.editor-window{
+    width:520px;
+    background:#1c1f22;
+    border:1px solid #3b4348;
+    border-radius:10px;
+    padding:20px;
+    color:#fff;
+    box-shadow:0 10px 30px rgba(0,0,0,.5);
+}
+
+.editor-window h2{
+    margin-bottom:16px;
+    color:#98d95d;
+}
+
+.editor-field{
+    display:flex;
+    flex-direction:column;
+    margin-bottom:14px;
+}
+
+.editor-field label{
+    margin-bottom:6px;
+    color:#aaa;
+}
+
+.editor-field input,
+.editor-field textarea,
+.editor-field select{
+    padding:8px;
+    border:1px solid #444;
+    border-radius:6px;
+    background:#2a2d31;
+    color:#fff;
+}
+
+.editor-actions{
+    display:flex;
+    justify-content:flex-end;
+    gap:10px;
+    margin-top:20px;
+}
+
+.editor-actions button{
+    padding:8px 16px;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+.editor-save{
+    background:#69b347;
+    color:#fff;
+}
+
+.editor-cancel{
+    background:#555;
+    color:#fff;
+}
+.activity-buttons {
+
+    display: flex;
+
+    gap: 8px;
+
+    margin-top: 10px;
+
+}
+
+.activity-btn {
+
+    flex: 1;
+
+    padding: 10px;
+
+    border: 1px solid #555;
+
+    border-radius: 8px;
+
+    background: #2a2a2a;
+
+    color: #bbb;
+
+    cursor: pointer;
+
+    font-weight: 600;
+
+    transition: all .2s ease;
+
+}
+
+.activity-btn:hover {
+
+    background: #3a3a3a;
+
+    transform: translateY(-1px);
+
+}
+
+.activity-btn.active {
+
+    color: white;
+
+    border: none;
+
+    box-shadow: 0 0 12px rgba(255,255,255,.25);
+
+}
+/* День */
+
+.activity-btn[data-mode="day"].active {
+
+    background: #ffb300;
+
+    color: #111;
+
+}
+
+/* Ночь */
+
+.activity-btn[data-mode="night"].active {
+
+    background: #3f6cff;
+
+}
+
+/* День + Ночь */
+
+.activity-btn[data-mode="both"].active {
+
+    background: #2ecc71;
+
+}
+
+#night-overlay {
+
+    position: absolute;
+
+    inset: 0;
+
+    background: rgba(0,0,0,.45);
+
+    pointer-events: none;
+
+    opacity: 0;
+
+    transition: opacity .4s ease;
+
+    z-index: 350;
+
+}
+
+#night-overlay.active {
+
+    opacity: 1;
+
+}
+
+#map {
+
+    transition: filter .4s ease;
+
+}
+
+#map.night-mode {
+
+    filter:
+        brightness(0.65)
+        saturate(0.75)
+        contrast(1.05);
+
+}

@@ -1,0 +1,101 @@
+.topbar{
+
+    height:60px;
+
+    background:#1b1e21;
+
+    border-bottom:1px solid #2f3439;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:0 20px;
+
+}
+
+.logo{
+
+    font-size:22px;
+
+    font-weight:bold;
+
+    color:#97d95d;
+
+}
+
+.toolbar{
+
+    display:flex;
+
+    gap:10px;
+
+}
+
+.toolbar input{
+
+    width:220px;
+
+    background:#282d31;
+
+    border:none;
+
+    color:white;
+
+    padding:10px;
+
+    border-radius:6px;
+
+}
+
+.toolbar button{
+
+    background:#394046;
+
+    color:white;
+
+    border:none;
+
+    padding:10px 20px;
+
+    border-radius:6px;
+
+    cursor:pointer;
+
+}
+
+.toolbar button:hover{
+
+    background:#4b545c;
+
+}
+
+.layout{
+
+    display:flex;
+
+    height:calc(100vh - 60px);
+
+}
+
+#map{
+
+    flex:1;
+
+}
+
+.info-panel{
+
+    width:340px;
+
+    background:#181b1e;
+
+    border-left:1px solid #2e3237;
+
+    padding:20px;
+
+    overflow-y:auto;
+
+}

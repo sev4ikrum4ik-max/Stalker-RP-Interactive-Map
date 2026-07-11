@@ -1,0 +1,75 @@
+.sidebar{
+
+    width:280px;
+
+    background:#181b1e;
+
+    border-right:1px solid #2d3238;
+
+    padding:20px;
+
+    overflow-y:auto;
+
+}
+
+.sidebar h2{
+
+    margin-bottom:20px;
+
+    font-size:22px;
+
+    color:#9cc85b;
+
+}
+
+.sidebar h3{
+
+    margin:20px 0 10px;
+
+    color:#888;
+
+}
+
+.sidebar label{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:10px 0;
+
+    cursor:pointer;
+
+    border-bottom:1px solid #2a2d31;
+
+    transition:.2s;
+
+}
+
+.sidebar label:hover{
+
+    color:#8fd36c;
+
+}
+
+.sidebar input{
+
+    width:18px;
+
+    height:18px;
+
+}
+
+#coords{
+
+    margin-top:15px;
+
+    font-family:monospace;
+
+    font-size:18px;
+
+    color:#7ed957;
+
+}

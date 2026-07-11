@@ -1,0 +1,387 @@
+/* ==========================================
+   RESET
+========================================== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+
+    width: 100%;
+    height: 100%;
+
+    overflow: hidden;
+
+    font-family: "Segoe UI", Arial, sans-serif;
+
+    background: #101214;
+    color: #fff;
+
+}
+
+/* ==========================================
+   LEAFLET
+========================================== */
+
+.leaflet-container {
+
+    width: 100%;
+    height: 100%;
+
+    background: #000;
+
+}
+
+.leaflet-image-layer {
+
+    image-rendering: auto;
+
+}
+
+/* ==========================================
+   MARKERS
+========================================== */
+
+.zone-marker {
+
+    background: transparent !important;
+    border: none !important;
+
+}
+
+.marker-wrapper {
+
+    width: 44px;
+    height: 44px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 50%;
+
+    background: rgba(20,22,25,.95);
+
+    border: 2px solid #555;
+
+    transition: .2s;
+
+}
+
+.marker-wrapper:hover {
+
+    transform: scale(1.18);
+
+}
+
+.marker-icon {
+
+    width: 28px;
+    height: 28px;
+
+    object-fit: contain;
+
+    pointer-events: none;
+
+    user-select: none;
+
+}
+
+.leaflet-marker-icon {
+
+    transition: transform .2s;
+
+}
+
+.leaflet-marker-icon:hover {
+
+    z-index: 9999;
+
+}
+
+/* ==========================================
+   ACTIVE MARKER
+========================================== */
+
+.marker-active {
+
+    z-index: 9999 !important;
+
+}
+
+.marker-active .marker-wrapper {
+
+    transform: scale(1.35);
+
+    border-color: #7fff7f !important;
+
+    box-shadow:
+        0 0 25px rgba(127,255,127,.9) !important;
+
+}
+
+/* ==========================================
+   TOOLTIP
+========================================== */
+
+.leaflet-tooltip {
+
+    background: rgba(24,27,30,.97);
+
+    color: #fff;
+
+    border: 1px solid #3a4248;
+
+    border-radius: 6px;
+
+    padding: 6px 10px;
+
+    font-size: 13px;
+
+    font-weight: 500;
+
+    box-shadow: 0 5px 18px rgba(0,0,0,.45);
+
+}
+
+.leaflet-tooltip-top:before {
+
+    border-top-color: rgba(24,27,30,.97);
+
+}
+
+/* ==========================================
+   SEARCH
+========================================== */
+
+.search-box {
+
+    position: relative;
+
+    width: 280px;
+
+}
+
+#search {
+
+    width: 100%;
+
+    padding: 10px 14px;
+
+    border: 1px solid #333;
+
+    border-radius: 8px;
+
+    outline: none;
+
+    background: #1b1e21;
+
+    color: white;
+
+}
+
+#search:focus {
+
+    border-color: #7ed957;
+
+}
+
+#search-results {
+
+    position: absolute;
+
+    top: calc(100% + 6px);
+
+    left: 0;
+
+    right: 0;
+
+    background: #1a1d20;
+
+    border: 1px solid #333;
+
+    border-radius: 8px;
+
+    overflow: hidden;
+
+    display: none;
+
+    max-height: 300px;
+
+    overflow-y: auto;
+
+    z-index: 9999;
+
+}
+
+.search-item {
+
+    padding: 12px 14px;
+
+    cursor: pointer;
+
+    border-bottom: 1px solid #2d3237;
+
+    transition: .15s;
+
+}
+
+.search-item:last-child {
+
+    border-bottom: none;
+
+}
+
+.search-item:hover {
+
+    background: #2a3136;
+
+}
+
+/* ==========================================
+   OBJECT CARD
+========================================== */
+
+.object-card {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 18px;
+
+}
+
+.object-image {
+
+    width: 100%;
+
+    height: 220px;
+
+    object-fit: cover;
+
+    border-radius: 10px;
+
+    border: 2px solid #3a3f44;
+
+    box-shadow: 0 0 20px rgba(0,0,0,.45);
+
+}
+
+.object-title {
+
+    font-size: 30px;
+
+    font-weight: bold;
+
+    color: #98d95d;
+
+    text-shadow: 0 0 10px rgba(152,217,93,.3);
+
+}
+
+.object-type {
+
+    display: inline-block;
+
+    width: max-content;
+
+    padding: 6px 14px;
+
+    border-radius: 6px;
+
+    background: #2b3137;
+
+    color: #b4ef78;
+
+    font-weight: bold;
+
+}
+
+.object-divider {
+
+    height: 1px;
+
+    background: #34393d;
+
+}
+
+.object-section {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+}
+
+.object-label {
+
+    color: #888;
+
+    font-size: 14px;
+
+}
+
+.object-value {
+
+    color: #9fdc67;
+
+    font-weight: bold;
+
+    letter-spacing: 1px;
+
+}
+
+.object-description {
+
+    color: #ddd;
+
+    line-height: 1.7;
+
+}
+/* ==========================================
+   EDITOR
+========================================== */
+
+.editor-btn{
+
+    margin-left:12px;
+
+    padding:10px 18px;
+
+    border:none;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+    background:#2d3136;
+
+    color:white;
+
+    font-size:15px;
+
+    transition:.2s;
+
+}
+
+.editor-btn:hover{
+
+    background:#41484f;
+
+}
+
+.editor-btn.active{
+
+    background:#69b347;
+
+    color:#fff;
+
+}

@@ -1,0 +1,53 @@
+.info-card{
+
+    display:flex;
+
+    flex-direction:column;
+
+}
+
+.info-image{
+
+    width:100%;
+
+    border-radius:10px;
+
+    margin-bottom:15px;
+
+}
+
+.info-card h2{
+
+    margin-bottom:10px;
+
+}
+
+.info-type{
+
+    color:#8ed957;
+
+    font-weight:bold;
+
+    margin-bottom:15px;
+
+}
+
+.info-description{
+
+    color:#ddd;
+
+    line-height:1.5;
+
+    margin-bottom:20px;
+
+}
+
+.info-card hr{
+
+    border:none;
+
+    border-top:1px solid #333;
+
+    margin:15px 0;
+
+}
