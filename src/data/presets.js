@@ -120,6 +120,74 @@ export const presets = {
             description: "Аномалии, которые наносят колоссальный урон высокой температурой."
         }
 
-    ]
+    ], 
+   location: [
+
+    {
+        id: "bandit_base",
+        name: "База братвы",
+        description: "Главная база братвы. Центр деятельности группировки.",
+        icon: "icons/locations/bandit_base.png",
+        image: "images/locations/bandit_base.webp"
+    },
+
+    {
+        id: "omega_bunker",
+        name: "Бункер Омега",
+        description: "Защищённый Бункер Омега.",
+        icon: "icons/locations/omega_bunker.png",
+        image: "images/locations/omega_bunker.webp"
+    },
+
+    {
+        id: "ikar_bunker",
+        name: "Бункер Икар",
+        description: "Защищённый комплекс Икар.",
+        icon: "icons/locations/ikar_bunker.png",
+        image: "images/locations/ikar_bunker.webp"
+    },
+
+    {
+        id: "freedom_base",
+        name: "База Свободы",
+        description: "Главная база группировки Свобода.",
+        icon: "icons/locations/freedom_base.png",
+        image: "images/locations/freedom_base.webp"
+    },
+
+    {
+        id: "msop_camp",
+        name: "Лагерь МСОП",
+        description: "Основной лагерь МСОП.",
+        icon: "icons/locations/msop_camp.png",
+        image: "images/locations/msop_camp.webp"
+    },
+
+    {
+        id: "midday_base",
+        name: "База Полдня",
+        description: "Главная база группировки Полдень.",
+        icon: "icons/locations/midday_base.png",
+        image: "images/locations/midday_base.webp"
+    },
+
+    {
+        id: "iskra_bunker",
+        name: "Бункер ЧНИГ Искра",
+        description: "Исследовательский бункер ЧНИГ «Искра».",
+        icon: "icons/locations/iskra_bunker.png",
+        image: "images/locations/iskra_bunker.webp"
+    },
+
+    {
+        id: "varta_base",
+        name: "База Варты",
+        description: "Главная база Варты.",
+        icon: "icons/locations/varta_base.png",
+        image: "images/locations/varta_base.webp"
+    }
+
+]
+    
 
 };

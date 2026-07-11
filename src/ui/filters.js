@@ -3,6 +3,7 @@ import { presets } from "../data/presets.js";
 
 export function initFilters() {
 
+    buildGroup("location", "location-filters");
     buildGroup("mutant", "mutant-filters");
     buildGroup("anomaly", "anomaly-filters");
 
@@ -73,6 +74,7 @@ function togglePreset(preset, visible) {
 function bindParentFilters() {
 
     bindParent("mutant");
+    bindParent("anomaly");
     bindParent("anomaly");
 
 }

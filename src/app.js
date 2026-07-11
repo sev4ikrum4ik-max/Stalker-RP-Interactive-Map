@@ -64,15 +64,12 @@ export function createApp() {
                     >
                     📍 Локации
                 </label>
+                <div
+    id="location-filters"
+    class="subfilters"
+></div>
 
-                <label>
-                    <input
-                        type="checkbox"
-                        id="layer-faction"
-                        checked
-                    >
-                    🏴 Группировки
-                </label>
+
 
                 <label>
 

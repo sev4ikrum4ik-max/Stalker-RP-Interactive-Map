@@ -10,6 +10,9 @@ export function getPresetFolder(type) {
 
     switch (type) {
 
+        case "location":
+            return "locations";
+
         case "mutant":
             return "mutants";
 
@@ -53,13 +56,18 @@ export function applyPreset(type, id) {
     const folder = getPresetFolder(type);
 
     document.getElementById("editor-name").value =
-        preset.name;
-
-    document.getElementById("editor-danger").value =
-        preset.danger;
+        preset.name ?? "";
 
     document.getElementById("editor-description").value =
         preset.description ?? "";
+
+    const dangerInput = document.getElementById("editor-danger");
+
+    if (dangerInput) {
+
+        dangerInput.value = preset.danger ?? 3;
+
+    }
 
     document.getElementById("editor-icon").value =
         preset.icon ??

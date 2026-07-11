@@ -265,10 +265,14 @@ function updatePresets() {
 
     const type = typeSelect.value;
 
-    if (type !== "mutant" && type !== "anomaly") {
+    if (
+    type !== "location" &&
+    type !== "mutant" &&
+    type !== "anomaly"
+) {
 
-        presetField.style.display = "none";
-        return;
+    presetField.style.display = "none";
+    return;
 
     }
 
@@ -283,13 +287,22 @@ typeSelect.addEventListener("change", updatePresets);
 presetSelect.addEventListener("change", () => {
 
     applyPreset(
-    typeSelect.value,
-    presetSelect.value
-);
+        typeSelect.value,
+        presetSelect.value
+    );
+
+    const locked = presetSelect.value !== "";
+
+    document.getElementById("editor-name").readOnly = locked;
+    document.getElementById("editor-description").readOnly = locked;
+    document.getElementById("editor-icon").readOnly = locked;
+    document.getElementById("editor-image").readOnly = locked;
 
 });
 
 updatePresets();
+
+presetSelect.dispatchEvent(new Event("change"));
 
     if (object) {
 
