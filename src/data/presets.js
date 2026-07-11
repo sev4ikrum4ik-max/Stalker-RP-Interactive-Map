@@ -127,64 +127,64 @@ export const presets = {
         id: "bandit_base",
         name: "База братвы",
         description: "Главная база братвы. Центр деятельности группировки.",
-        icon: "icons/locations/bandit_base.png",
-        image: "images/locations/bandit_base.webp"
+        icon: "icons/locations/delyuga.png",
+        image: "images/locations/delyuga.webp"
     },
 
     {
         id: "omega_bunker",
         name: "Бункер Омега",
         description: "Защищённый Бункер Омега.",
-        icon: "icons/locations/omega_bunker.png",
-        image: "images/locations/omega_bunker.webp"
+        icon: "icons/locations/ecologists.png",
+        image: "images/locations/ecologists.webp"
     },
 
     {
         id: "ikar_bunker",
         name: "Бункер Икар",
         description: "Защищённый комплекс Икар.",
-        icon: "icons/locations/ikar_bunker.png",
-        image: "images/locations/ikar_bunker.webp"
+        icon: "icons/locations/ecologists.png",
+        image: "images/locations/ecologists.webp"
     },
 
     {
         id: "freedom_base",
         name: "База Свободы",
         description: "Главная база группировки Свобода.",
-        icon: "icons/locations/freedom_base.png",
-        image: "images/locations/freedom_base.webp"
+        icon: "icons/locations/freedom.png",
+        image: "images/locations/freedom.webp"
     },
 
     {
         id: "msop_camp",
         name: "Лагерь МСОП",
         description: "Основной лагерь МСОП.",
-        icon: "icons/locations/msop_camp.png",
-        image: "images/locations/msop_camp.webp"
+        icon: "icons/locations/military.png",
+        image: "images/locations/military.webp"
     },
 
     {
         id: "midday_base",
         name: "База Полдня",
         description: "Главная база группировки Полдень.",
-        icon: "icons/locations/midday_base.png",
-        image: "images/locations/midday_base.webp"
+        icon: "icons/locations/noontide.png",
+        image: "images/locations/noontide.webp"
     },
 
     {
         id: "iskra_bunker",
         name: "Бункер ЧНИГ Искра",
         description: "Исследовательский бункер ЧНИГ «Искра».",
-        icon: "icons/locations/iskra_bunker.png",
-        image: "images/locations/iskra_bunker.webp"
+        icon: "icons/locations/spark.png",
+        image: "images/locations/spark.webp"
     },
 
     {
         id: "varta_base",
         name: "База Варты",
         description: "Главная база Варты.",
-        icon: "icons/locations/varta_base.png",
-        image: "images/locations/varta_base.webp"
+        icon: "icons/locations/ward.png",
+        image: "images/locations/ward.webp"
     }
 
 ]
