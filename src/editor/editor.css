@@ -180,3 +180,10 @@
         contrast(1.05);
 
 }
+.leaflet-image-layer {
+
+    image-rendering: auto;
+
+    image-rendering: smooth;
+
+}

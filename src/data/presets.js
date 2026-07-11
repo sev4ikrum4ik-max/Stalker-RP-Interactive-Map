@@ -187,6 +187,67 @@ export const presets = {
         image: "images/locations/ward.webp"
     }
 
+], 
+
+radiation: [
+
+    {
+        id: "low",
+        name: "Низкая радиация",
+        danger: 1,
+        description: "Небольшой уровень радиации.",
+        icon: "icons/radiation/radiation_low.png",
+        image: "images/radiation/radiation_low.webp"
+    },
+
+    {
+        id: "medium",
+        name: "Средняя радиация",
+        danger: 3,
+        description: "Опасный уровень радиации.",
+        icon: "icons/radiation/radiation_medium.png",
+        image: "images/radiation/radiation_medium.webp"
+    },
+
+    {
+        id: "high",
+        name: "Высокая радиация",
+        danger: 5,
+        description: "Смертельно опасная радиация.",
+        icon: "icons/radiation/radiation_high.png",
+        image: "images/radiation/radiation_high.webp"
+    }
+
+],
+psi: [
+
+    {
+        id: "weak",
+        name: "Слабое ПСИ",
+        danger: 2,
+        description: "Слабое пси-излучение.",
+        icon: "icons/psi/psi_low.png",
+        image: "images/psi/psi_low.webp"
+    },
+
+    {
+        id: "medium",
+        name: "Среднее ПСИ",
+        danger: 4,
+        description: "Опасное пси-излучение.",
+        icon: "icons/psi/psi_medium.png",
+        image: "images/psi/psi_medium.webp"
+    },
+
+    {
+        id: "strong",
+        name: "Сильное ПСИ",
+        danger: 5,
+        description: "Крайне опасное пси-излучение.",
+        icon: "icons/psi/psi_high.png",
+        image: "images/psi/psi_high.webp"
+    }
+
 ]
     
 

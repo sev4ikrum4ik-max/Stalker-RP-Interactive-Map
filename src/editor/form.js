@@ -268,7 +268,9 @@ function updatePresets() {
     if (
     type !== "location" &&
     type !== "mutant" &&
-    type !== "anomaly"
+    type !== "anomaly" &&
+    type !== "radiation" &&
+    type !== "psi"
 ) {
 
     presetField.style.display = "none";
@@ -452,6 +454,8 @@ console.log({
 });
 
 const data = {
+
+    preset: document.getElementById("editor-preset")?.value || "",
 
     name: name?.value,
 
