@@ -39,10 +39,6 @@ export function createApp() {
                     💾 Экспорт
                 </button>
 
-                <button id="export-json" class="editor-btn">
-    💾 Экспорт
-</button>
-
 <button
     id="day-night-toggle"
     class="editor-btn"

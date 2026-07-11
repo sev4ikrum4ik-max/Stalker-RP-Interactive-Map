@@ -2,6 +2,6 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
 
-    base: "/zone-map/"
+    base: "/Stalker-RP-Interactive-Map/"
 
 });
