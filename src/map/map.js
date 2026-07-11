@@ -14,7 +14,7 @@ export function getMap() {
 export async function initMap() {
 
     const img = new Image();
-    img.src = "/maps/map.webp";
+    img.src = `${import.meta.env.BASE_URL}maps/map.webp`;
 
     await new Promise((resolve, reject) => {
         img.onload = resolve;
