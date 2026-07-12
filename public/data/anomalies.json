@@ -540,6 +540,7 @@
         "visible": true
     },
     {
+        "id": "9ea36c4b-a3b5-4da6-9ff5-cb45ece2f8ec",
         "preset": "electra",
         "name": "Электра",
         "type": "anomaly",
@@ -553,9 +554,11 @@
         "nightY": 602,
         "showDay": true,
         "showNight": true,
-        "id": "9ea36c4b-a3b5-4da6-9ff5-cb45ece2f8ec"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "5ead94e0-ec74-4f16-a953-2221df38b303",
         "preset": "thermal",
         "name": "Термическая",
         "type": "anomaly",
@@ -569,9 +572,11 @@
         "nightY": 599,
         "showDay": true,
         "showNight": true,
-        "id": "5ead94e0-ec74-4f16-a953-2221df38b303"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "16c44240-8284-4100-a21a-003bb0b2b904",
         "preset": "glass_shards",
         "name": "Стеклянные осколки",
         "type": "anomaly",
@@ -585,9 +590,11 @@
         "nightY": 599,
         "showDay": true,
         "showNight": true,
-        "id": "16c44240-8284-4100-a21a-003bb0b2b904"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "74fc7c86-ca46-489c-bf4d-09b048d59dc5",
         "preset": "glass_shards",
         "name": "Стеклянные осколки",
         "type": "anomaly",
@@ -601,9 +608,11 @@
         "nightY": 623,
         "showDay": true,
         "showNight": true,
-        "id": "74fc7c86-ca46-489c-bf4d-09b048d59dc5"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "098699b5-68e0-4dfb-bc08-4115a37ede33",
         "preset": "gravitational",
         "name": "Гравитационная",
         "type": "anomaly",
@@ -617,6 +626,23 @@
         "nightY": 627,
         "showDay": true,
         "showNight": true,
-        "id": "098699b5-68e0-4dfb-bc08-4115a37ede33"
+        "category": "",
+        "visible": true
+    },
+    {
+        "preset": "thermal",
+        "name": "Термическая",
+        "type": "anomaly",
+        "icon": "icons/anomalies/thermal.png",
+        "image": "images/anomalies/thermal.webp",
+        "description": "Аномалии, которые наносят колоссальный урон высокой температурой.",
+        "danger": 4,
+        "x": 838,
+        "y": 496,
+        "nightX": 838,
+        "nightY": 496,
+        "showDay": true,
+        "showNight": true,
+        "id": "fc00ac81-e9e5-40cd-9fd4-2075655d70e6"
     }
 ]

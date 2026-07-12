@@ -1132,5 +1132,53 @@
         "showNight": false,
         "category": "",
         "visible": true
+    },
+    {
+        "preset": "blinddog",
+        "name": "Слепой пёс",
+        "type": "mutant",
+        "icon": "icons/mutants/blind_dog.png",
+        "image": "images/mutants/blind_dog.webp",
+        "description": "Слепой пес — самый привычный представитель фауны Зоны. Стаи этих псов можно встретить везде, кроме совершенно гибельных мест.",
+        "danger": 1,
+        "x": 876,
+        "y": 453,
+        "nightX": 876,
+        "nightY": 453,
+        "showDay": true,
+        "showNight": false,
+        "id": "57f13ca6-e9f8-4127-862c-bf69d2dd7dd6"
+    },
+    {
+        "preset": "tushkan",
+        "name": "Тушкан",
+        "type": "mutant",
+        "icon": "icons/mutants/tushkan.png",
+        "image": "images/mutants/tushkan.webp",
+        "description": "Тушкан — маленькое крысоподобное существо, передвигающиеся на двух лапах.",
+        "danger": 1,
+        "x": 910,
+        "y": 417,
+        "nightX": 910,
+        "nightY": 417,
+        "showDay": true,
+        "showNight": false,
+        "id": "f357b522-8a4e-493b-a390-6768842e2edd"
+    },
+    {
+        "preset": "cat",
+        "name": "Кот-Баюн",
+        "type": "mutant",
+        "icon": "icons/mutants/cat.png",
+        "image": "images/mutants/cat.webp",
+        "description": "Кот, который имеет худощавое тело с низким шерстяным покровом, и длинные лапы на конце которых острые когти. По всему телу имеются рваные раны, а по бокам горла располагаются гнойно-бледные наросты.",
+        "danger": 3,
+        "x": 859,
+        "y": 481,
+        "nightX": 859,
+        "nightY": 481,
+        "showDay": true,
+        "showNight": false,
+        "id": "efb95c9b-ab3e-4ec5-a361-24418992f7a6"
     }
 ]
