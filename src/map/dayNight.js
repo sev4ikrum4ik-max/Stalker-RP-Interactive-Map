@@ -9,21 +9,22 @@ export function initDayNight() {
 
     if (!button) return;
 
+    // Устанавливаем начальное состояние кнопки
+    button.textContent = "☀ День";
+
     button.addEventListener("click", () => {
 
         night = !night;
 
         const map = document.getElementById("map");
 
-if (map) {
-
-    map.classList.toggle("night-mode", night);
-
-}
+        if (map) {
+            map.classList.toggle("night-mode", night);
+        }
 
         const overlay = document.getElementById("night-overlay");
 
-overlay?.classList.toggle("active", night);
+        overlay?.classList.toggle("active", night);
 
         button.textContent = night
             ? "🌙 Ночь"
@@ -33,9 +34,12 @@ overlay?.classList.toggle("active", night);
 
     });
 
+    // Небольшая задержка, чтобы все маркеры успели создаться
+    setTimeout(updateMutants, 50);
+
 }
 
-function updateMutants() {
+export function updateMutants() {
 
     getObjects().forEach(object => {
 
@@ -43,7 +47,6 @@ function updateMutants() {
 
         if (!object.marker) return;
 
-        // ---------- НОЧЬ ----------
         if (night) {
 
             if (!object.showNight) {
@@ -65,10 +68,7 @@ function updateMutants() {
 
             }
 
-        }
-
-        // ---------- ДЕНЬ ----------
-        else {
+        } else {
 
             if (!object.showDay) {
 
@@ -92,4 +92,8 @@ function updateMutants() {
 
     });
 
+}
+
+export function isNight() {
+    return night;
 }
