@@ -1,5 +1,6 @@
 [
     {
+        "id": "7b62a17c-426e-454f-bc24-df66966b62d7",
         "preset": "medium",
         "name": "Среднее ПСИ",
         "type": "psi",
@@ -13,9 +14,11 @@
         "nightY": 238,
         "showDay": true,
         "showNight": true,
-        "id": "7b62a17c-426e-454f-bc24-df66966b62d7"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "ccfdf484-fcbe-4783-9301-b4b6896808eb",
         "preset": "medium",
         "name": "Среднее ПСИ",
         "type": "psi",
@@ -29,9 +32,11 @@
         "nightY": 381,
         "showDay": true,
         "showNight": true,
-        "id": "ccfdf484-fcbe-4783-9301-b4b6896808eb"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "eccf6eba-d565-4b16-9405-28d4e4af67be",
         "preset": "medium",
         "name": "Среднее ПСИ",
         "type": "psi",
@@ -45,9 +50,11 @@
         "nightY": 242,
         "showDay": true,
         "showNight": true,
-        "id": "eccf6eba-d565-4b16-9405-28d4e4af67be"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "056c2481-093b-4830-8e7c-e01ee8061cf5",
         "preset": "weak",
         "name": "Слабое ПСИ",
         "type": "psi",
@@ -61,9 +68,11 @@
         "nightY": 233,
         "showDay": true,
         "showNight": true,
-        "id": "056c2481-093b-4830-8e7c-e01ee8061cf5"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "f5d9c556-2ec3-4fc5-92e8-906db7edbe21",
         "preset": "strong",
         "name": "Сильное ПСИ",
         "type": "psi",
@@ -77,9 +86,11 @@
         "nightY": 676,
         "showDay": true,
         "showNight": true,
-        "id": "f5d9c556-2ec3-4fc5-92e8-906db7edbe21"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "74c48e76-23c0-459b-88ee-f3f45dd63809",
         "preset": "strong",
         "name": "Сильное ПСИ",
         "type": "psi",
@@ -93,6 +104,7 @@
         "nightY": 664,
         "showDay": true,
         "showNight": true,
-        "id": "74c48e76-23c0-459b-88ee-f3f45dd63809"
+        "category": "",
+        "visible": true
     }
 ]
