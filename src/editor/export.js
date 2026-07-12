@@ -1,14 +1,14 @@
 import { isAdmin } from "../auth/admin.js";
 import { getObjects } from "./storage.js";
 
-const FILES = [
-    "locations",
-    "factions",
-    "mutants",
-    "anomalies",
-    "radiation",
-    "psi"
-];
+const FILES = {
+    locations: "location",
+    factions: "faction",
+    mutants: "mutant",
+    anomalies: "anomaly",
+    radiation: "radiation",
+    psi: "psi"
+};
 
 export function exportObjects() {
 
@@ -16,9 +16,7 @@ export function exportObjects() {
 
     const objects = getObjects();
 
-    FILES.forEach(file => {
-
-        const type = file.slice(0, -1);
+    Object.entries(FILES).forEach(([file, type]) => {
 
         const data = objects
             .filter(object => object.type === type)
@@ -50,7 +48,7 @@ export function exportObjects() {
 
         link.click();
 
-        link.remove();
+        document.body.removeChild(link);
 
         URL.revokeObjectURL(url);
 

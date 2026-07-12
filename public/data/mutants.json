@@ -131,8 +131,8 @@
         "preset": "blinddog",
         "name": "Слепой пёс",
         "type": "mutant",
-        "icon": "icons/mutants/blinddog.png",
-        "image": "images/mutants/blinddog.webp",
+        "icon": "icons/mutants/blind_dog.png",
+        "image": "images/mutants/blind_dog.webp",
         "description": "Слепой пес — самый привычный представитель фауны Зоны. Стаи этих псов можно встретить везде, кроме совершенно гибельных мест.",
         "danger": 1,
         "x": 605,
@@ -238,5 +238,22 @@
         "showDay": true,
         "showNight": false,
         "id": "ebea2080-519f-41ad-9b58-cb9a9a73c26a"
-    }
+    },
+    {
+    "preset": "izlom",
+    "name": "Излом",
+    "type": "mutant",
+    "icon": "icons/mutants/izlom.png",
+    "image": "images/mutants/izlom.webp",
+    "description": "Излом — высокий худощавый мутант с непропорционально длинными руками. Несмотря на медленную походку, способен наносить мощные удары на большой дистанции и представляет серьёзную угрозу для сталкеров.",
+    "danger": 4,
+    "x": 620,
+    "y": 320,
+    "nightX": 620,
+    "nightY": 320,
+    "showDay": false,
+    "showNight": true,
+    "id": "8e1e6b8c-5e2c-4f0b-a6f1-4d7b2e3f9c11"
+}
+    
 ]
