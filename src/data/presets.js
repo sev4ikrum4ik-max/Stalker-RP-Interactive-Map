@@ -8,12 +8,14 @@ export const presets = {
 
     mutant: [
 
-        {
-            id: "blinddog",
-            name: "Слепой пёс",
-            danger: 1,
-            description: "Слепой пес — самый привычный представитель фауны Зоны. Стаи этих псов можно встретить везде, кроме совершенно гибельных мест."
-        },
+       {
+    id: "blinddog",
+    name: "Слепой пёс",
+    danger: 1,
+    description: "Слепой пес — самый привычный представитель фауны Зоны. Стаи этих псов можно встретить везде, кроме совершенно гибельных мест.",
+    icon: "icons/mutants/blind_dog.png",
+    image: "images/mutants/blind_dog.webp"
+},
 
         {
             id: "boar",
