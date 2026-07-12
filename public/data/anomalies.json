@@ -586,5 +586,37 @@
         "showDay": true,
         "showNight": true,
         "id": "16c44240-8284-4100-a21a-003bb0b2b904"
+    },
+    {
+        "preset": "glass_shards",
+        "name": "Стеклянные осколки",
+        "type": "anomaly",
+        "icon": "icons/anomalies/glass_shards.png",
+        "image": "images/anomalies/glass_shards.webp",
+        "description": "Аномалия наполнененная мелкими осколками сетка, и, посколько внутри него остановилось время, осколки превратились в смертоносные и острые, как бритва, лезвия.",
+        "danger": 3,
+        "x": 623,
+        "y": 623,
+        "nightX": 623,
+        "nightY": 623,
+        "showDay": true,
+        "showNight": true,
+        "id": "74fc7c86-ca46-489c-bf4d-09b048d59dc5"
+    },
+    {
+        "preset": "gravitational",
+        "name": "Гравитационная",
+        "type": "anomaly",
+        "icon": "icons/anomalies/gravitational.png",
+        "image": "images/anomalies/gravitational.webp",
+        "description": "Аномалии влияющие на гравитационные поля окружающей территории",
+        "danger": 5,
+        "x": 625,
+        "y": 627,
+        "nightX": 625,
+        "nightY": 627,
+        "showDay": true,
+        "showNight": true,
+        "id": "098699b5-68e0-4dfb-bc08-4115a37ede33"
     }
 ]
