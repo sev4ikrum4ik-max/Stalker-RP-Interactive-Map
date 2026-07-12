@@ -37,7 +37,7 @@
     },
     {
         "id": "4716f726-5000-49ee-935a-f6dd27fe3682",
-        "preset": "",
+        "preset": "snork",
         "name": "Снорк",
         "type": "mutant",
         "icon": "icons/mutants/snork.png",
@@ -181,7 +181,7 @@
     },
     {
         "id": "ab0430d6-25a8-43f4-b171-93572c03e6a0",
-        "preset": "",
+        "preset": "blinddog",
         "name": "Слепой пёс",
         "type": "mutant",
         "icon": "icons/mutants/blind_dog.png",
@@ -289,7 +289,7 @@
     },
     {
         "id": "ebe40110-0a3f-4b8e-ad0a-c74e3f02142f",
-        "preset": "",
+        "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
         "icon": "icons/mutants/izlom.png",
