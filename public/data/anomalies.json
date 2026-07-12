@@ -108,6 +108,7 @@
         "visible": true
     },
     {
+        "id": "0d33f062-16ae-4fb5-b45a-9c4c5b8110f8",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -121,9 +122,11 @@
         "nightY": 221,
         "showDay": true,
         "showNight": true,
-        "id": "0d33f062-16ae-4fb5-b45a-9c4c5b8110f8"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "f250fc56-b37a-4ec5-ab42-3e1436fc5db5",
         "preset": "electra",
         "name": "Электра",
         "type": "anomaly",
@@ -137,9 +140,11 @@
         "nightY": 428,
         "showDay": true,
         "showNight": true,
-        "id": "f250fc56-b37a-4ec5-ab42-3e1436fc5db5"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "4efb387f-0f7f-4f02-bd3b-3e2598761699",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -153,9 +158,11 @@
         "nightY": 382,
         "showDay": true,
         "showNight": true,
-        "id": "4efb387f-0f7f-4f02-bd3b-3e2598761699"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "b0c6f96a-64e4-4a0d-a01e-a7da03f1af05",
         "preset": "glass_shards",
         "name": "Стеклянные осколки",
         "type": "anomaly",
@@ -169,9 +176,11 @@
         "nightY": 420,
         "showDay": true,
         "showNight": true,
-        "id": "b0c6f96a-64e4-4a0d-a01e-a7da03f1af05"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "08db854b-00b7-4c01-8818-71c3b04e78ec",
         "preset": "gravitational",
         "name": "Гравитационная",
         "type": "anomaly",
@@ -185,9 +194,11 @@
         "nightY": 426,
         "showDay": true,
         "showNight": true,
-        "id": "08db854b-00b7-4c01-8818-71c3b04e78ec"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "97f482f9-f388-4ba5-a1da-0c3e429acee2",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -201,9 +212,11 @@
         "nightY": 424,
         "showDay": true,
         "showNight": true,
-        "id": "97f482f9-f388-4ba5-a1da-0c3e429acee2"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "a5063a99-daf7-4b2e-b962-5d1b6d3a15c1",
         "preset": "gravitational",
         "name": "Гравитационная",
         "type": "anomaly",
@@ -217,9 +230,11 @@
         "nightY": 37,
         "showDay": true,
         "showNight": true,
-        "id": "a5063a99-daf7-4b2e-b962-5d1b6d3a15c1"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "05153871-8c29-4557-8bfb-53607f9285fa",
         "preset": "glass_shards",
         "name": "Стеклянные осколки",
         "type": "anomaly",
@@ -233,9 +248,11 @@
         "nightY": 40,
         "showDay": true,
         "showNight": true,
-        "id": "05153871-8c29-4557-8bfb-53607f9285fa"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "3c6ddbfc-81dc-4fe6-bfa1-99a7256e6e43",
         "preset": "gravitational",
         "name": "Гравитационная",
         "type": "anomaly",
@@ -249,9 +266,11 @@
         "nightY": 42,
         "showDay": true,
         "showNight": true,
-        "id": "3c6ddbfc-81dc-4fe6-bfa1-99a7256e6e43"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "16adca2a-16f1-471a-b308-286f236fe8bf",
         "preset": "gravitational",
         "name": "Гравитационная",
         "type": "anomaly",
@@ -265,9 +284,11 @@
         "nightY": 282,
         "showDay": true,
         "showNight": true,
-        "id": "16adca2a-16f1-471a-b308-286f236fe8bf"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "3a2b2348-a834-47f1-b232-5dcdd747e85b",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -281,9 +302,11 @@
         "nightY": 283,
         "showDay": true,
         "showNight": true,
-        "id": "3a2b2348-a834-47f1-b232-5dcdd747e85b"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "a08eeaee-99e9-4988-9f27-40bb4b10507d",
         "preset": "electra",
         "name": "Электра",
         "type": "anomaly",
@@ -297,9 +320,11 @@
         "nightY": 300,
         "showDay": true,
         "showNight": true,
-        "id": "a08eeaee-99e9-4988-9f27-40bb4b10507d"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "880e5604-4088-476f-93bf-b483a374dc4b",
         "preset": "thermal",
         "name": "Термическая",
         "type": "anomaly",
@@ -313,9 +338,11 @@
         "nightY": 294,
         "showDay": true,
         "showNight": true,
-        "id": "880e5604-4088-476f-93bf-b483a374dc4b"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "e7888994-9a5c-4796-9cf6-ffd5c751d4f9",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -329,9 +356,11 @@
         "nightY": 301,
         "showDay": true,
         "showNight": true,
-        "id": "e7888994-9a5c-4796-9cf6-ffd5c751d4f9"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "39241df7-afeb-4b77-9028-72b4eb9c4ab2",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -345,9 +374,11 @@
         "nightY": 350,
         "showDay": true,
         "showNight": true,
-        "id": "39241df7-afeb-4b77-9028-72b4eb9c4ab2"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "4f87b3e1-c24c-4b5f-9325-f0ef334fb91d",
         "preset": "electra",
         "name": "Электра",
         "type": "anomaly",
@@ -361,9 +392,11 @@
         "nightY": 402,
         "showDay": true,
         "showNight": true,
-        "id": "4f87b3e1-c24c-4b5f-9325-f0ef334fb91d"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "a686fbe6-b75f-425b-869f-82cc60254f30",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -377,9 +410,11 @@
         "nightY": 405,
         "showDay": true,
         "showNight": true,
-        "id": "a686fbe6-b75f-425b-869f-82cc60254f30"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "c7578999-99b3-49b5-94a8-95595d1ec576",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -393,9 +428,11 @@
         "nightY": 394,
         "showDay": true,
         "showNight": true,
-        "id": "c7578999-99b3-49b5-94a8-95595d1ec576"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "79ee5b29-670e-474f-abc8-01b69de24e38",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -409,9 +446,11 @@
         "nightY": 399,
         "showDay": true,
         "showNight": true,
-        "id": "79ee5b29-670e-474f-abc8-01b69de24e38"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "dadeb383-8656-4cb8-8a5e-bf299762d0a7",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -425,9 +464,11 @@
         "nightY": 438,
         "showDay": true,
         "showNight": true,
-        "id": "dadeb383-8656-4cb8-8a5e-bf299762d0a7"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "25647a85-237b-4dff-a5e4-6aefec4292cc",
         "preset": "glass_shards",
         "name": "Стеклянные осколки",
         "type": "anomaly",
@@ -441,9 +482,11 @@
         "nightY": 434,
         "showDay": true,
         "showNight": true,
-        "id": "25647a85-237b-4dff-a5e4-6aefec4292cc"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "5a84c819-b333-4a54-afea-dfe6c8a04fe9",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -457,9 +500,11 @@
         "nightY": 382,
         "showDay": true,
         "showNight": true,
-        "id": "5a84c819-b333-4a54-afea-dfe6c8a04fe9"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "08bcd6fc-16f2-46f4-a479-cd592fe0c4a8",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -473,6 +518,23 @@
         "nightY": 331,
         "showDay": true,
         "showNight": true,
-        "id": "08bcd6fc-16f2-46f4-a479-cd592fe0c4a8"
+        "category": "",
+        "visible": true
+    },
+    {
+        "preset": "chemical",
+        "name": "Химическая",
+        "type": "anomaly",
+        "icon": "icons/anomalies/chemical.png",
+        "image": "images/anomalies/chemical.webp",
+        "description": "Аномалия, наносящая сильные химические ожоги.",
+        "danger": 4,
+        "x": 660,
+        "y": 663,
+        "nightX": 660,
+        "nightY": 663,
+        "showDay": true,
+        "showNight": true,
+        "id": "1fadbe2b-7e70-40a9-a6d2-6e637643c999"
     }
 ]

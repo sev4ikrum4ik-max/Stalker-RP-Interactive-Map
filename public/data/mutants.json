@@ -378,6 +378,7 @@
         "visible": true
     },
     {
+        "id": "5c2e4e59-6070-4f17-9610-d54cc421f273",
         "preset": "poltergeist",
         "name": "Полтергейст",
         "type": "mutant",
@@ -391,9 +392,11 @@
         "nightY": 665,
         "showDay": true,
         "showNight": false,
-        "id": "5c2e4e59-6070-4f17-9610-d54cc421f273"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "d991283d-b58a-44ed-9b8d-319adcf6b07e",
         "preset": "snork",
         "name": "Снорк",
         "type": "mutant",
@@ -407,9 +410,11 @@
         "nightY": 301,
         "showDay": true,
         "showNight": false,
-        "id": "d991283d-b58a-44ed-9b8d-319adcf6b07e"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "a245f626-26a8-4d4b-a270-139ad78b6e9c",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
@@ -423,9 +428,11 @@
         "nightY": 300,
         "showDay": true,
         "showNight": false,
-        "id": "a245f626-26a8-4d4b-a270-139ad78b6e9c"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "3f565471-05a7-492e-ac2e-c808b7f7d189",
         "preset": "poltergeist",
         "name": "Полтергейст",
         "type": "mutant",
@@ -439,9 +446,11 @@
         "nightY": 305,
         "showDay": true,
         "showNight": false,
-        "id": "3f565471-05a7-492e-ac2e-c808b7f7d189"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "5528e091-7d38-4b32-ba8a-fc2af36b52e4",
         "preset": "flesh",
         "name": "Плоть",
         "type": "mutant",
@@ -455,9 +464,11 @@
         "nightY": 222,
         "showDay": true,
         "showNight": false,
-        "id": "5528e091-7d38-4b32-ba8a-fc2af36b52e4"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "ea583711-2fa4-4274-aff8-79909d839da2",
         "preset": "tushkan",
         "name": "Тушкан",
         "type": "mutant",
@@ -471,9 +482,11 @@
         "nightY": 272,
         "showDay": true,
         "showNight": false,
-        "id": "ea583711-2fa4-4274-aff8-79909d839da2"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "c619f40f-510a-419c-8d85-ebb00fd62051",
         "preset": "cat",
         "name": "Кот-Баюн",
         "type": "mutant",
@@ -487,9 +500,11 @@
         "nightY": 267,
         "showDay": true,
         "showNight": false,
-        "id": "c619f40f-510a-419c-8d85-ebb00fd62051"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "6269b1a6-aa04-4d9f-aab4-4de91d70968f",
         "preset": "snork",
         "name": "Снорк",
         "type": "mutant",
@@ -503,9 +518,11 @@
         "nightY": 431,
         "showDay": true,
         "showNight": false,
-        "id": "6269b1a6-aa04-4d9f-aab4-4de91d70968f"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "b4f8e2ad-f3ba-4c5b-b68d-2f7f101b4967",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
@@ -519,9 +536,11 @@
         "nightY": 429,
         "showDay": true,
         "showNight": false,
-        "id": "b4f8e2ad-f3ba-4c5b-b68d-2f7f101b4967"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "69daecb3-7703-4a9a-9ad3-b28ececd8b3e",
         "preset": "blinddog",
         "name": "Слепой пёс",
         "type": "mutant",
@@ -535,9 +554,11 @@
         "nightY": 350,
         "showDay": true,
         "showNight": false,
-        "id": "69daecb3-7703-4a9a-9ad3-b28ececd8b3e"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "b7d88b77-367b-4d5e-ae7d-75542c9066a0",
         "preset": "cat",
         "name": "Кот-Баюн",
         "type": "mutant",
@@ -551,9 +572,11 @@
         "nightY": 325,
         "showDay": true,
         "showNight": false,
-        "id": "b7d88b77-367b-4d5e-ae7d-75542c9066a0"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "bd1a710a-4ac6-42cf-8a89-7cc7f32b6efd",
         "preset": "blinddog",
         "name": "Слепой пёс",
         "type": "mutant",
@@ -567,9 +590,11 @@
         "nightY": 329,
         "showDay": true,
         "showNight": false,
-        "id": "bd1a710a-4ac6-42cf-8a89-7cc7f32b6efd"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "b4a9d62a-086b-48a7-829c-cb92c3899299",
         "preset": "tushkan",
         "name": "Тушкан",
         "type": "mutant",
@@ -583,9 +608,11 @@
         "nightY": 354,
         "showDay": true,
         "showNight": false,
-        "id": "b4a9d62a-086b-48a7-829c-cb92c3899299"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "2573df9e-15c5-481c-b2a5-14d8a1f4c2f2",
         "preset": "flesh",
         "name": "Плоть",
         "type": "mutant",
@@ -599,9 +626,11 @@
         "nightY": 377,
         "showDay": true,
         "showNight": false,
-        "id": "2573df9e-15c5-481c-b2a5-14d8a1f4c2f2"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "29aefdb8-e800-4144-aa9c-3dd9cfb0f138",
         "preset": "",
         "name": "Снорк",
         "type": "mutant",
@@ -615,9 +644,11 @@
         "nightY": 501,
         "showDay": true,
         "showNight": false,
-        "id": "29aefdb8-e800-4144-aa9c-3dd9cfb0f138"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "78f132dc-78c2-42a6-bb21-15dc83c270c4",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
@@ -631,9 +662,11 @@
         "nightY": 502,
         "showDay": true,
         "showNight": false,
-        "id": "78f132dc-78c2-42a6-bb21-15dc83c270c4"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "941688df-2e78-4e9f-9820-46aee616b490",
         "preset": "blinddog",
         "name": "Слепой пёс",
         "type": "mutant",
@@ -647,9 +680,11 @@
         "nightY": 485,
         "showDay": true,
         "showNight": false,
-        "id": "941688df-2e78-4e9f-9820-46aee616b490"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "2573b28a-74a3-4f6d-989a-129b6d1ba900",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
@@ -663,9 +698,11 @@
         "nightY": 238,
         "showDay": true,
         "showNight": false,
-        "id": "2573b28a-74a3-4f6d-989a-129b6d1ba900"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "7821e28c-be42-4373-9a94-2d8111fe014e",
         "preset": "pseudo_dog",
         "name": "Псевдособака",
         "type": "mutant",
@@ -679,9 +716,11 @@
         "nightY": 241,
         "showDay": true,
         "showNight": false,
-        "id": "7821e28c-be42-4373-9a94-2d8111fe014e"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "4a76b721-d5d1-4369-8a3c-d844e933db09",
         "preset": "cat",
         "name": "Кот-Баюн",
         "type": "mutant",
@@ -695,9 +734,11 @@
         "nightY": 248,
         "showDay": true,
         "showNight": false,
-        "id": "4a76b721-d5d1-4369-8a3c-d844e933db09"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "6b329d72-49e2-47c2-bece-0dae98befd2c",
         "preset": "flesh",
         "name": "Плоть",
         "type": "mutant",
@@ -711,9 +752,11 @@
         "nightY": 124,
         "showDay": true,
         "showNight": false,
-        "id": "6b329d72-49e2-47c2-bece-0dae98befd2c"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "d8bb1288-fdb1-4475-9a0d-76e32c584f2e",
         "preset": "blinddog",
         "name": "Слепой пёс",
         "type": "mutant",
@@ -727,9 +770,11 @@
         "nightY": 46,
         "showDay": true,
         "showNight": false,
-        "id": "d8bb1288-fdb1-4475-9a0d-76e32c584f2e"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "f82f73dd-0413-4f80-869b-b64b6afb092b",
         "preset": "tushkan",
         "name": "Тушкан",
         "type": "mutant",
@@ -743,9 +788,11 @@
         "nightY": 46,
         "showDay": true,
         "showNight": true,
-        "id": "f82f73dd-0413-4f80-869b-b64b6afb092b"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "793e5157-f9ae-4ec8-9710-4c47e180a98f",
         "preset": "cat",
         "name": "Кот-Баюн",
         "type": "mutant",
@@ -759,9 +806,11 @@
         "nightY": 67,
         "showDay": true,
         "showNight": false,
-        "id": "793e5157-f9ae-4ec8-9710-4c47e180a98f"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "eb8e7dcd-1f74-4425-8132-632b3d7970bd",
         "preset": "",
         "name": "Снорк",
         "type": "mutant",
@@ -775,9 +824,11 @@
         "nightY": 429,
         "showDay": true,
         "showNight": true,
-        "id": "eb8e7dcd-1f74-4425-8132-632b3d7970bd"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "c5c831b3-a0e6-455f-8d13-fdf5654b5c34",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
@@ -791,9 +842,11 @@
         "nightY": 430,
         "showDay": true,
         "showNight": false,
-        "id": "c5c831b3-a0e6-455f-8d13-fdf5654b5c34"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "cca3f1f6-fc8e-48b2-a84b-3bc163aad8b5",
         "preset": "blinddog",
         "name": "Слепой пёс",
         "type": "mutant",
@@ -807,9 +860,11 @@
         "nightY": 233,
         "showDay": true,
         "showNight": false,
-        "id": "cca3f1f6-fc8e-48b2-a84b-3bc163aad8b5"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "3a10e2ea-016a-42cd-ae47-35ff6e4687e3",
         "preset": "",
         "name": "Снорк",
         "type": "mutant",
@@ -823,9 +878,11 @@
         "nightY": 316,
         "showDay": true,
         "showNight": false,
-        "id": "3a10e2ea-016a-42cd-ae47-35ff6e4687e3"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "46c97455-767f-4419-bcfb-d5e09fd59c9b",
         "preset": "blinddog",
         "name": "Слепой пёс",
         "type": "mutant",
@@ -839,9 +896,11 @@
         "nightY": 300,
         "showDay": true,
         "showNight": false,
-        "id": "46c97455-767f-4419-bcfb-d5e09fd59c9b"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "20eb8741-f197-427f-9859-90cf3144f013",
         "preset": "pseudo_dog",
         "name": "Псевдособака",
         "type": "mutant",
@@ -855,9 +914,11 @@
         "nightY": 285,
         "showDay": true,
         "showNight": false,
-        "id": "20eb8741-f197-427f-9859-90cf3144f013"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "5dcf9a7c-5cc5-4cc1-8844-eb178806132c",
         "preset": "pseudo_dog",
         "name": "Псевдособака",
         "type": "mutant",
@@ -871,9 +932,11 @@
         "nightY": 323,
         "showDay": true,
         "showNight": false,
-        "id": "5dcf9a7c-5cc5-4cc1-8844-eb178806132c"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "75b5658b-e4cf-4375-abd3-73743c780e34",
         "preset": "flesh",
         "name": "Плоть",
         "type": "mutant",
@@ -887,9 +950,11 @@
         "nightY": 331,
         "showDay": true,
         "showNight": false,
-        "id": "75b5658b-e4cf-4375-abd3-73743c780e34"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "66c87631-eb4a-4477-aa49-061840713624",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
@@ -903,9 +968,11 @@
         "nightY": 346,
         "showDay": true,
         "showNight": false,
-        "id": "66c87631-eb4a-4477-aa49-061840713624"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "ed2bd6c7-1e39-4e54-8871-41479866717d",
         "preset": "snork",
         "name": "Снорк",
         "type": "mutant",
@@ -919,9 +986,11 @@
         "nightY": 344,
         "showDay": true,
         "showNight": false,
-        "id": "ed2bd6c7-1e39-4e54-8871-41479866717d"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "be3af323-272c-4db3-9cc0-568d21af67f6",
         "preset": "tushkan",
         "name": "Тушкан",
         "type": "mutant",
@@ -935,9 +1004,11 @@
         "nightY": 374,
         "showDay": true,
         "showNight": false,
-        "id": "be3af323-272c-4db3-9cc0-568d21af67f6"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "fb49f4dd-24a6-4233-8338-1fbb5f6e4674",
         "preset": "pseudo_dog",
         "name": "Псевдособака",
         "type": "mutant",
@@ -951,9 +1022,11 @@
         "nightY": 399,
         "showDay": true,
         "showNight": false,
-        "id": "fb49f4dd-24a6-4233-8338-1fbb5f6e4674"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "6b7403a9-47f6-4c29-9874-4116da506a99",
         "preset": "pseudo_dog",
         "name": "Псевдособака",
         "type": "mutant",
@@ -967,9 +1040,11 @@
         "nightY": 383,
         "showDay": true,
         "showNight": false,
-        "id": "6b7403a9-47f6-4c29-9874-4116da506a99"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "edd59f68-b851-4ad8-9e08-471d11f97d1f",
         "preset": "chimera",
         "name": "Химера",
         "type": "mutant",
@@ -983,9 +1058,11 @@
         "nightY": 405,
         "showDay": true,
         "showNight": false,
-        "id": "edd59f68-b851-4ad8-9e08-471d11f97d1f"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "18d87056-39fc-4d9b-8a10-4fbf32d48f10",
         "preset": "blinddog",
         "name": "Слепой пёс",
         "type": "mutant",
@@ -999,9 +1076,11 @@
         "nightY": 445,
         "showDay": true,
         "showNight": true,
-        "id": "18d87056-39fc-4d9b-8a10-4fbf32d48f10"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "d7515f2f-d044-4616-98a4-01167e7bb90a",
         "preset": "snork",
         "name": "Снорк",
         "type": "mutant",
@@ -1015,9 +1094,11 @@
         "nightY": 471,
         "showDay": true,
         "showNight": false,
-        "id": "d7515f2f-d044-4616-98a4-01167e7bb90a"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "e9b14367-7fb6-4b75-8c54-d74ea8990372",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
@@ -1031,9 +1112,11 @@
         "nightY": 468,
         "showDay": true,
         "showNight": false,
-        "id": "e9b14367-7fb6-4b75-8c54-d74ea8990372"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "f18788d1-111a-49af-baf5-ad52fa85b45d",
         "preset": "blinddog",
         "name": "Слепой пёс",
         "type": "mutant",
@@ -1047,6 +1130,7 @@
         "nightY": 408,
         "showDay": true,
         "showNight": false,
-        "id": "f18788d1-111a-49af-baf5-ad52fa85b45d"
+        "category": "",
+        "visible": true
     }
 ]

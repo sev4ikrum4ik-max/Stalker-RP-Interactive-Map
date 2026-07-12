@@ -108,6 +108,7 @@
         "visible": true
     },
     {
+        "id": "f438631d-a5e7-4c83-b850-6bdf9dcfc6b8",
         "preset": "weak",
         "name": "Слабое ПСИ",
         "type": "psi",
@@ -121,9 +122,11 @@
         "nightY": 296,
         "showDay": true,
         "showNight": true,
-        "id": "f438631d-a5e7-4c83-b850-6bdf9dcfc6b8"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "0252c0d7-ceb2-4845-954f-107d527c8690",
         "preset": "medium",
         "name": "Среднее ПСИ",
         "type": "psi",
@@ -137,9 +140,11 @@
         "nightY": 313,
         "showDay": true,
         "showNight": true,
-        "id": "0252c0d7-ceb2-4845-954f-107d527c8690"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "8964feba-1c43-4418-9e62-d2276d34d76f",
         "preset": "weak",
         "name": "Слабое ПСИ",
         "type": "psi",
@@ -153,9 +158,11 @@
         "nightY": 467,
         "showDay": true,
         "showNight": true,
-        "id": "8964feba-1c43-4418-9e62-d2276d34d76f"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "fa88e6eb-930e-45f1-b661-1faa5f00ee25",
         "preset": "weak",
         "name": "Слабое ПСИ",
         "type": "psi",
@@ -169,9 +176,11 @@
         "nightY": 476,
         "showDay": true,
         "showNight": true,
-        "id": "fa88e6eb-930e-45f1-b661-1faa5f00ee25"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "5c1df8ff-61b1-46b2-b8d1-42fd216cb06d",
         "preset": "medium",
         "name": "Среднее ПСИ",
         "type": "psi",
@@ -185,6 +194,7 @@
         "nightY": 382,
         "showDay": true,
         "showNight": true,
-        "id": "5c1df8ff-61b1-46b2-b8d1-42fd216cb06d"
+        "category": "",
+        "visible": true
     }
 ]
