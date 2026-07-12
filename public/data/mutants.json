@@ -163,7 +163,7 @@
     },
     {
         "id": "a0545093-fac0-47d1-bd69-d1da9b826893",
-        "preset": "boar",
+        "preset": "",
         "name": "Кабан",
         "type": "mutant",
         "icon": "icons/mutants/boar.png",
@@ -176,24 +176,6 @@
         "nightY": 408,
         "showDay": true,
         "showNight": false,
-        "category": "",
-        "visible": true
-    },
-    {
-        "id": "ab0430d6-25a8-43f4-b171-93572c03e6a0",
-        "preset": "blinddog",
-        "name": "Слепой пёс",
-        "type": "mutant",
-        "icon": "icons/mutants/blind_dog.png",
-        "image": "images/mutants/blind_dog.webp",
-        "description": "Слепой пес — самый привычный представитель фауны Зоны. Стаи этих псов можно встретить везде, кроме совершенно гибельных мест.",
-        "danger": 1,
-        "x": 634,
-        "y": 414,
-        "nightX": 634,
-        "nightY": 414,
-        "showDay": true,
-        "showNight": true,
         "category": "",
         "visible": true
     },
@@ -270,6 +252,7 @@
         "visible": true
     },
     {
+        "id": "2b86bb9c-5f38-4af6-b8b9-5a03fdd7ad7b",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
@@ -283,9 +266,11 @@
         "nightY": 423,
         "showDay": true,
         "showNight": false,
-        "id": "2b86bb9c-5f38-4af6-b8b9-5a03fdd7ad7b"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "ebe40110-0a3f-4b8e-ad0a-c74e3f02142f",
         "preset": "",
         "name": "Излом",
         "type": "mutant",
@@ -299,6 +284,23 @@
         "nightY": 246,
         "showDay": true,
         "showNight": false,
-        "id": "ebe40110-0a3f-4b8e-ad0a-c74e3f02142f"
+        "category": "",
+        "visible": true
+    },
+    {
+        "preset": "",
+        "name": "Слепой пёс",
+        "type": "mutant",
+        "icon": "icons/mutants/blind_dog.png",
+        "image": "images/mutants/blind_dog.webp",
+        "description": "Слепой пес — самый привычный представитель фауны Зоны. Стаи этих псов можно встретить везде, кроме совершенно гибельных мест.",
+        "danger": 1,
+        "x": 634,
+        "y": 408,
+        "nightX": 634,
+        "nightY": 408,
+        "showDay": true,
+        "showNight": false,
+        "id": "d9286409-f6d6-4ffa-a36a-099837243542"
     }
 ]
