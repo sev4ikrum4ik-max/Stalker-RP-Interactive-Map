@@ -119,6 +119,7 @@
         "visible": true
     },
     {
+        "id": "60d71a84-2e68-45f5-bd1c-448e50c4b337",
         "name": "Бункер Икар",
         "type": "location",
         "icon": "icons/locations/ecologists.png",
@@ -131,6 +132,7 @@
         "nightY": 597,
         "showDay": true,
         "showNight": true,
-        "id": "60d71a84-2e68-45f5-bd1c-448e50c4b337"
+        "category": "",
+        "visible": true
     }
 ]
