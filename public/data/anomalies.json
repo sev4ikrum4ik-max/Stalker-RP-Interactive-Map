@@ -522,6 +522,7 @@
         "visible": true
     },
     {
+        "id": "1fadbe2b-7e70-40a9-a6d2-6e637643c999",
         "preset": "chemical",
         "name": "Химическая",
         "type": "anomaly",
@@ -535,6 +536,55 @@
         "nightY": 663,
         "showDay": true,
         "showNight": true,
-        "id": "1fadbe2b-7e70-40a9-a6d2-6e637643c999"
+        "category": "",
+        "visible": true
+    },
+    {
+        "preset": "electra",
+        "name": "Электра",
+        "type": "anomaly",
+        "icon": "icons/anomalies/electra.png",
+        "image": "images/anomalies/electra.webp",
+        "description": "Электрическая аномалия, одна из наиболее распространённых в Зоне.",
+        "danger": 4,
+        "x": 593,
+        "y": 602,
+        "nightX": 593,
+        "nightY": 602,
+        "showDay": true,
+        "showNight": true,
+        "id": "9ea36c4b-a3b5-4da6-9ff5-cb45ece2f8ec"
+    },
+    {
+        "preset": "thermal",
+        "name": "Термическая",
+        "type": "anomaly",
+        "icon": "icons/anomalies/thermal.png",
+        "image": "images/anomalies/thermal.webp",
+        "description": "Аномалии, которые наносят колоссальный урон высокой температурой.",
+        "danger": 4,
+        "x": 593,
+        "y": 599,
+        "nightX": 593,
+        "nightY": 599,
+        "showDay": true,
+        "showNight": true,
+        "id": "5ead94e0-ec74-4f16-a953-2221df38b303"
+    },
+    {
+        "preset": "glass_shards",
+        "name": "Стеклянные осколки",
+        "type": "anomaly",
+        "icon": "icons/anomalies/glass_shards.png",
+        "image": "images/anomalies/glass_shards.webp",
+        "description": "Аномалия наполнененная мелкими осколками сетка, и, посколько внутри него остановилось время, осколки превратились в смертоносные и острые, как бритва, лезвия.",
+        "danger": 3,
+        "x": 591,
+        "y": 599,
+        "nightX": 591,
+        "nightY": 599,
+        "showDay": true,
+        "showNight": true,
+        "id": "16c44240-8284-4100-a21a-003bb0b2b904"
     }
 ]
