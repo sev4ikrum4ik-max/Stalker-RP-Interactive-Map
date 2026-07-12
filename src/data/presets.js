@@ -90,6 +90,14 @@ export const presets = {
     icon: "icons/mutants/izlom.png",
     image: "images/mutants/izlom.webp"
 },
+{
+    id: "poltergeist",
+    name: "Полтергейст",
+    danger: 4,
+    description: "Полтергейст — опасный мутант, способный управлять предметами силой телекинеза, создавать огненные и электрические атаки, оставаясь практически невидимым.",
+    icon: "icons/mutants/poltergeist.png",
+    image: "images/mutants/poltergeist.webp"
+},
 
     ],
 
