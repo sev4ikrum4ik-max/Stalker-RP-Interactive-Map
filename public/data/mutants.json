@@ -163,7 +163,7 @@
     },
     {
         "id": "a0545093-fac0-47d1-bd69-d1da9b826893",
-        "preset": "",
+        "preset": "boar",
         "name": "Кабан",
         "type": "mutant",
         "icon": "icons/mutants/boar.png",
@@ -174,6 +174,24 @@
         "y": 408,
         "nightX": 639,
         "nightY": 408,
+        "showDay": true,
+        "showNight": false,
+        "category": "",
+        "visible": true
+    },
+    {
+        "id": "ab0430d6-25a8-43f4-b171-93572c03e6a0",
+        "preset": "",
+        "name": "Слепой пёс",
+        "type": "mutant",
+        "icon": "icons/mutants/blind_dog.png",
+        "image": "images/mutants/blind_dog.webp",
+        "description": "Слепой пес — самый привычный представитель фауны Зоны. Стаи этих псов можно встретить везде, кроме совершенно гибельных мест.",
+        "danger": 1,
+        "x": 634,
+        "y": 414,
+        "nightX": 634,
+        "nightY": 414,
         "showDay": true,
         "showNight": false,
         "category": "",
@@ -286,21 +304,5 @@
         "showNight": false,
         "category": "",
         "visible": true
-    },
-    {
-        "preset": "",
-        "name": "Слепой пёс",
-        "type": "mutant",
-        "icon": "icons/mutants/blind_dog.png",
-        "image": "images/mutants/blind_dog.webp",
-        "description": "Слепой пес — самый привычный представитель фауны Зоны. Стаи этих псов можно встретить везде, кроме совершенно гибельных мест.",
-        "danger": 1,
-        "x": 634,
-        "y": 408,
-        "nightX": 634,
-        "nightY": 408,
-        "showDay": true,
-        "showNight": false,
-        "id": "d9286409-f6d6-4ffa-a36a-099837243542"
     }
 ]
