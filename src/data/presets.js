@@ -83,7 +83,7 @@ export const presets = {
         {
     id: "izlom",
     name: "Излом",
-    danger: 4,
+    danger: 3,
     description: "Излом — высокий худощавый мутант с непропорционально длинными руками.",
     icon: "icons/mutants/izlom.png",
     image: "images/mutants/izlom.webp"
