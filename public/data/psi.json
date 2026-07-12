@@ -90,24 +90,6 @@
         "visible": true
     },
     {
-        "id": "956a15b3-19bc-468a-9b8e-a6f2e33d4825",
-        "preset": "medium",
-        "name": "Среднее ПСИ",
-        "type": "psi",
-        "icon": "icons/psi/psi_medium.png",
-        "image": "images/psi/psi_medium.webp",
-        "description": "Опасное пси-излучение.",
-        "danger": 4,
-        "x": 1070,
-        "y": 545,
-        "nightX": 1070,
-        "nightY": 545,
-        "showDay": true,
-        "showNight": true,
-        "category": "",
-        "visible": true
-    },
-    {
         "id": "f438631d-a5e7-4c83-b850-6bdf9dcfc6b8",
         "preset": "weak",
         "name": "Слабое ПСИ",
