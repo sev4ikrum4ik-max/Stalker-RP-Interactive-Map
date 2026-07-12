@@ -270,21 +270,35 @@
         "visible": true
     },
     {
-        "id": "8e1e6b8c-5e2c-4f0b-a6f1-4d7b2e3f9c11",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
         "icon": "icons/mutants/izlom.png",
         "image": "images/mutants/izlom.webp",
-        "description": "Излом — высокий худощавый мутант с непропорционально длинными руками. Несмотря на медленную походку, способен наносить мощные удары на большой дистанции и представляет серьёзную угрозу для сталкеров.",
-        "danger": 4,
-        "x": 621,
-        "y": 320,
-        "nightX": 621,
-        "nightY": 320,
-        "showDay": false,
-        "showNight": true,
-        "category": "",
-        "visible": true
+        "description": "Излом — высокий худощавый мутант с непропорционально длинными руками.",
+        "danger": 3,
+        "x": 516,
+        "y": 423,
+        "nightX": 516,
+        "nightY": 423,
+        "showDay": true,
+        "showNight": false,
+        "id": "2b86bb9c-5f38-4af6-b8b9-5a03fdd7ad7b"
+    },
+    {
+        "preset": "",
+        "name": "Излом",
+        "type": "mutant",
+        "icon": "icons/mutants/izlom.png",
+        "image": "images/mutants/izlom.webp",
+        "description": "Излом — высокий худощавый мутант с непропорционально длинными руками.",
+        "danger": 3,
+        "x": 715,
+        "y": 246,
+        "nightX": 715,
+        "nightY": 246,
+        "showDay": true,
+        "showNight": false,
+        "id": "ebe40110-0a3f-4b8e-ad0a-c74e3f02142f"
     }
 ]
