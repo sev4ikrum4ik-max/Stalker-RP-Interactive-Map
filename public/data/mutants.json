@@ -631,7 +631,7 @@
     },
     {
         "id": "29aefdb8-e800-4144-aa9c-3dd9cfb0f138",
-        "preset": "",
+        "preset": "snork",
         "name": "Снорк",
         "type": "mutant",
         "icon": "icons/mutants/snork.png",
@@ -811,7 +811,7 @@
     },
     {
         "id": "eb8e7dcd-1f74-4425-8132-632b3d7970bd",
-        "preset": "",
+        "preset": "snork",
         "name": "Снорк",
         "type": "mutant",
         "icon": "icons/mutants/snork.png",
@@ -865,7 +865,7 @@
     },
     {
         "id": "3a10e2ea-016a-42cd-ae47-35ff6e4687e3",
-        "preset": "",
+        "preset": "snork",
         "name": "Снорк",
         "type": "mutant",
         "icon": "icons/mutants/snork.png",
