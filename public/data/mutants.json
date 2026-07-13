@@ -1420,5 +1420,37 @@
         "showNight": false,
         "category": "",
         "visible": true
+    },
+    {
+        "preset": "bloodsucker",
+        "name": "Кровосос",
+        "type": "mutant",
+        "icon": "icons/mutants/bloodsucker.png",
+        "image": "images/mutants/bloodsucker.webp",
+        "description": "Кровосос — редставляет собой высокого, сутулого гуманоида без волосяного покрова. Его главная особенность — пугающие щупальца на месте рта, с помощью которых он высасывает кровь из жертв.",
+        "danger": 5,
+        "x": 1118,
+        "y": 222,
+        "nightX": 1118,
+        "nightY": 222,
+        "showDay": true,
+        "showNight": false,
+        "id": "90b259a1-1031-4113-9c71-ad791117b9cf"
+    },
+    {
+        "preset": "bloodsucker",
+        "name": "Кровосос",
+        "type": "mutant",
+        "icon": "icons/mutants/bloodsucker.png",
+        "image": "images/mutants/bloodsucker.webp",
+        "description": "Кровосос — редставляет собой высокого, сутулого гуманоида без волосяного покрова. Его главная особенность — пугающие щупальца на месте рта, с помощью которых он высасывает кровь из жертв.",
+        "danger": 5,
+        "x": 1120,
+        "y": 220,
+        "nightX": 1120,
+        "nightY": 220,
+        "showDay": true,
+        "showNight": false,
+        "id": "bba2d1cd-5b09-4e4c-a0c6-ce83962388bd"
     }
 ]

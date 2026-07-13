@@ -772,5 +772,21 @@
         "showNight": true,
         "category": "",
         "visible": true
+    },
+    {
+        "preset": "chemical",
+        "name": "Химическая",
+        "type": "anomaly",
+        "icon": "icons/anomalies/chemical.png",
+        "image": "images/anomalies/chemical.webp",
+        "description": "Аномалия, наносящая сильные химические ожоги.",
+        "danger": 4,
+        "x": 1135,
+        "y": 213,
+        "nightX": 1135,
+        "nightY": 213,
+        "showDay": true,
+        "showNight": true,
+        "id": "09305d28-a75a-46b4-a86c-809d0ef0d252"
     }
 ]
