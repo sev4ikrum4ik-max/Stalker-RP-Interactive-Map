@@ -180,6 +180,7 @@
         "visible": true
     },
     {
+        "id": "c40b5066-dd16-4314-8251-cd5b4e582de7",
         "preset": "medium",
         "name": "Среднее ПСИ",
         "type": "psi",
@@ -193,6 +194,7 @@
         "nightY": 421,
         "showDay": true,
         "showNight": true,
-        "id": "c40b5066-dd16-4314-8251-cd5b4e582de7"
+        "category": "",
+        "visible": true
     }
 ]
