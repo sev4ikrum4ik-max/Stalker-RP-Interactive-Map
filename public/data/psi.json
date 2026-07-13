@@ -178,5 +178,21 @@
         "showNight": true,
         "category": "",
         "visible": true
+    },
+    {
+        "preset": "medium",
+        "name": "Среднее ПСИ",
+        "type": "psi",
+        "icon": "icons/psi/psi_medium.png",
+        "image": "images/psi/psi_medium.webp",
+        "description": "Опасное пси-излучение.",
+        "danger": 4,
+        "x": 1089,
+        "y": 421,
+        "nightX": 1089,
+        "nightY": 421,
+        "showDay": true,
+        "showNight": true,
+        "id": "c40b5066-dd16-4314-8251-cd5b4e582de7"
     }
 ]

@@ -1188,6 +1188,7 @@
         "visible": true
     },
     {
+        "id": "02220117-0d70-40fa-a17c-7608941f3229",
         "preset": "snork",
         "name": "Снорк",
         "type": "mutant",
@@ -1201,9 +1202,11 @@
         "nightY": 605,
         "showDay": true,
         "showNight": false,
-        "id": "02220117-0d70-40fa-a17c-7608941f3229"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "ff70aafb-bd8e-48c0-845a-10cee20f0a35",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
@@ -1217,9 +1220,11 @@
         "nightY": 603,
         "showDay": true,
         "showNight": false,
-        "id": "ff70aafb-bd8e-48c0-845a-10cee20f0a35"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "f6a8148d-f89a-40ca-b858-fcf86e75bd8d",
         "preset": "poltergeist",
         "name": "Полтергейст",
         "type": "mutant",
@@ -1233,9 +1238,11 @@
         "nightY": 602,
         "showDay": true,
         "showNight": false,
-        "id": "f6a8148d-f89a-40ca-b858-fcf86e75bd8d"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "c2b1b68c-717d-4e0c-8955-3a05b827bcc4",
         "preset": "poltergeist",
         "name": "Полтергейст",
         "type": "mutant",
@@ -1249,9 +1256,11 @@
         "nightY": 559,
         "showDay": true,
         "showNight": false,
-        "id": "c2b1b68c-717d-4e0c-8955-3a05b827bcc4"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "ea34c8c0-57b2-4b4f-9959-e80fe2b86602",
         "preset": "snork",
         "name": "Снорк",
         "type": "mutant",
@@ -1265,9 +1274,11 @@
         "nightY": 543,
         "showDay": true,
         "showNight": false,
-        "id": "ea34c8c0-57b2-4b4f-9959-e80fe2b86602"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "3d55334b-3aa9-485e-9cc4-66e315cdcba8",
         "preset": "blinddog",
         "name": "Слепой пёс",
         "type": "mutant",
@@ -1281,9 +1292,11 @@
         "nightY": 545,
         "showDay": true,
         "showNight": false,
-        "id": "3d55334b-3aa9-485e-9cc4-66e315cdcba8"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "55c70761-b279-44bc-a83b-db37062fa9a3",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
@@ -1297,9 +1310,11 @@
         "nightY": 543,
         "showDay": true,
         "showNight": false,
-        "id": "55c70761-b279-44bc-a83b-db37062fa9a3"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "ad33b5b0-57cf-44df-bc3c-b2baabb6a636",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
@@ -1313,9 +1328,11 @@
         "nightY": 499,
         "showDay": true,
         "showNight": false,
-        "id": "ad33b5b0-57cf-44df-bc3c-b2baabb6a636"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "bf108a23-90ca-4277-845a-67d68006aa6e",
         "preset": "snork",
         "name": "Снорк",
         "type": "mutant",
@@ -1329,9 +1346,11 @@
         "nightY": 498,
         "showDay": true,
         "showNight": false,
-        "id": "bf108a23-90ca-4277-845a-67d68006aa6e"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "de705e61-3c19-497e-80cd-1fc093b28a10",
         "preset": "izlom",
         "name": "Излом",
         "type": "mutant",
@@ -1345,9 +1364,11 @@
         "nightY": 352,
         "showDay": true,
         "showNight": false,
-        "id": "de705e61-3c19-497e-80cd-1fc093b28a10"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "7eacb423-1d24-40ae-ae00-c34f9e23f1a1",
         "preset": "snork",
         "name": "Снорк",
         "type": "mutant",
@@ -1361,9 +1382,11 @@
         "nightY": 353,
         "showDay": true,
         "showNight": false,
-        "id": "7eacb423-1d24-40ae-ae00-c34f9e23f1a1"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "da55b2b4-b144-403a-834c-0ff628cba3d0",
         "preset": "burer",
         "name": "Бюрер",
         "type": "mutant",
@@ -1377,9 +1400,11 @@
         "nightY": 352,
         "showDay": true,
         "showNight": false,
-        "id": "da55b2b4-b144-403a-834c-0ff628cba3d0"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "dd631931-3deb-4e45-b976-5fa471927617",
         "preset": "poltergeist",
         "name": "Полтергейст",
         "type": "mutant",
@@ -1393,6 +1418,7 @@
         "nightY": 350,
         "showDay": true,
         "showNight": false,
-        "id": "dd631931-3deb-4e45-b976-5fa471927617"
+        "category": "",
+        "visible": true
     }
 ]
