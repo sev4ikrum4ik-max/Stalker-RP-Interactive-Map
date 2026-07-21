@@ -1422,6 +1422,7 @@
         "visible": true
     },
     {
+        "id": "90b259a1-1031-4113-9c71-ad791117b9cf",
         "preset": "bloodsucker",
         "name": "Кровосос",
         "type": "mutant",
@@ -1435,9 +1436,11 @@
         "nightY": 222,
         "showDay": true,
         "showNight": false,
-        "id": "90b259a1-1031-4113-9c71-ad791117b9cf"
+        "category": "",
+        "visible": true
     },
     {
+        "id": "bba2d1cd-5b09-4e4c-a0c6-ce83962388bd",
         "preset": "bloodsucker",
         "name": "Кровосос",
         "type": "mutant",
@@ -1451,6 +1454,23 @@
         "nightY": 220,
         "showDay": true,
         "showNight": false,
-        "id": "bba2d1cd-5b09-4e4c-a0c6-ce83962388bd"
+        "category": "",
+        "visible": true
+    },
+    {
+        "preset": "controller",
+        "name": "Контролёр",
+        "type": "mutant",
+        "icon": "icons/mutants/controller.png",
+        "image": "images/mutants/controller.webp",
+        "description": "Контролёр — один из самых опасных мутантов, встречающихся в Зоне. Он обладает высокими телепатическими способностями — поражения мозга жертвы практически всегда необратимы.",
+        "danger": 5,
+        "x": 694,
+        "y": 454,
+        "nightX": 694,
+        "nightY": 454,
+        "showDay": false,
+        "showNight": true,
+        "id": "89a5ec12-ad69-4ada-accc-3c6de5a67719"
     }
 ]
